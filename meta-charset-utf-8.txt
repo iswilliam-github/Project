@@ -1,0 +1,4 @@
+<meta charset=”utf-8″> is an HTML tag that is used to indicate the web page's character encoding.
+In order to see the correct content, 
+the tag's function is used which let the browser know what 
+character encoding was used in the HTML document.
