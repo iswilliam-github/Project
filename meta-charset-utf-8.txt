@@ -1,4 +1,2 @@
-<meta charset=”utf-8″> is an HTML tag that is used to indicate the web page's character encoding.
-In order to see the correct content, 
-the tag's function is used which let the browser know what 
-character encoding was used in the HTML document.
+The <meta charset="utf-8"> tag is essential for specifying the character encoding of an HTML document.
+Character encoding defines how characters are represented as binary data, which is fundamental for web browsers to interpret and display text correctly.
