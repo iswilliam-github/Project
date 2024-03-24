@@ -1,2 +1,3 @@
 The <meta charset="utf-8"> tag is essential for specifying the character encoding of an HTML document.
-Character encoding defines how characters are represented as binary data, which is fundamental for web browsers to interpret and display text correctly.
+Character encoding defines how characters are represented as binary data,
+which is fundamental for web browsers to interpret and display text correctly.
