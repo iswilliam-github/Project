@@ -1,0 +1,40 @@
+###Difference Between Normal HTML Element and Semantic HTML Element.###
+
+In web develpment Normal HTML elements are  tags used to  structure the layout of a web page.
+They are majorly use for organising and presenting a web page. 
+p,div,span etc are Normal HTML element.
+
+Semantic HTML elements,describe the purpose of the content they wrap,
+making it easier for search engines,screen readers, and other devices to interpret and present 
+the page accurately.
+Examples of Semantic elements are; header, footer, article, main etc   
+
+Normal and semantic HTML elements are used to structure web content,
+semantic elements provide additional context and meaning to the content, aiding in accessibility, 
+search engine optimization, and overall code readability.
+
+###Explain the disparity between closing tags and self-closing tags in HTML###
+
+Closing Tags: Most HTML elements require both an opening tag and a closing tag.
+The opening tag shows the beginning of the element, and the closing tag signifies the end of the element's content.
+ For example:
+ <p>Hello</p>
+<div>Welcome</div>
+
+Self-Closing Tags: These tags end with a forward slash (/) just before the closing angle bracket (>). 
+Self-closing tags are commonly used for elements like images, line breaks, meta tags, etc.
+
+###What distinguishes inline elements from block elements in HTML?###
+
+The distinction between block and inline elements is in their layout behavior and how they
+interact with other elements on the page.
+
+Block Elements: Block elements start on a new line and take up the full width available to them,
+pushing subsequent elements to a new line. 
+<div>, <p>, <h1> to <h6>, <ul>, <ol>, <li>, <table>, <form>, etc. are examples of Block elements.
+
+Inline Elements: Inline elements do not start on a new line.
+They allow other elements to sit beside them horizontally. 
+Example are; <span>, <a>, <strong>, <em>, <img>, <input>, <button>, etc.
+
+
